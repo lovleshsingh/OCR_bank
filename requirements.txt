@@ -1,0 +1,4 @@
+docx==0.2.4
+pdf2docx==0.5.6
+python_docx==0.8.11
+tabula==1.0.5

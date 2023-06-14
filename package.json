@@ -1,0 +1,14 @@
+{
+  "name": "pdf-scraping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node scripts.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}

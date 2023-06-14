@@ -1,0 +1,12 @@
+{
+  "FILE_NAME_LIMITERS": ["_-_", " - "],
+
+  "BANK_NAME_LIMITERS": ["_", " "],
+
+  "FALLBACK_MESSAGE": "Needs manual intervention",
+
+  "BANK_PDF_DIRECTORY": "./bank_pdf/",
+
+  "BANK_JSON_DIRECTORY": "./bank_json/",
+  "BANK_DOCX_DIRECTORY": "./bank_docx/"
+}

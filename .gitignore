@@ -1,0 +1,17 @@
+node_modules
+bank_pdfs
+pdf_output
+bank.json
+*.log
+bank_test_json/
+bank_active_pdfs/
+new_done_pdf/
+bank_json/
+todo/
+toCheck/
+package-lock.json
+bank_docx/
+trash.js
+.DS_Store
+old/
+old_json/
